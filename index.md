@@ -1,1 +1,1 @@
-{{ hfun_plutonotebookpage  ./homepage/index }}
+{{ plutonotebookpage  ./homepage/index }}
