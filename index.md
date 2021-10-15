@@ -28,10 +28,10 @@
     </style>
     
     <iframe width="100%" height="100%"
-    src="./homepage/index"
+    src="./homepage/index.html"
     class="plutopage"
     frameborder="0"
     allow="accelerometer; ambient-light-sensor; autoplay; battery; camera; display-capture; document-domain; encrypted-media; execution-while-not-rendered; execution-while-out-of-viewport; fullscreen; geolocation; gyroscope; layout-animations; legacy-image-formats; magnetometer; microphone; midi; navigation-override; oversized-images; payment; picture-in-picture; publickey-credentials-get; sync-xhr; usb; wake-lock; screen-wake-lock; vr; web-share; xr-spatial-tracking"
     allowfullscreen></iframe>
 
-    <a class="smallscreenlink" href="./homepage/index"></a>
+    <a class="smallscreenlink" href="./homepage/index.html"></a>
